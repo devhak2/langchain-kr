@@ -6,6 +6,7 @@
 *.env
 # *.db
 *.pdf
+!07-TextSplitter/**/*.pdf
 *.pkl
 *.md
 *.gguf
