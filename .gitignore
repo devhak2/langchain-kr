@@ -15,6 +15,7 @@
 *.sqlite3
 *.bin
 *.wav
+09-VectorStore/tmp/*.jpg
 
 .idea/
 .vscode/
