@@ -6,6 +6,7 @@
 *.env
 # *.db
 *.pdf
+!07-TextSplitter/**/*.pdf
 *.pkl
 *.md
 *.gguf
@@ -14,6 +15,7 @@
 *.sqlite3
 *.bin
 *.wav
+09-VectorStore/tmp/*.jpg
 
 .idea/
 .vscode/
